@@ -1,0 +1,21 @@
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Logic\bin\Debug\Logic.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Logic\bin\Debug\Logic.pdb
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Logic\obj\Debug\Logic.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Logic\obj\Debug\Logic.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Logic.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Logic.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Logic\obj\Debug\Logic.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Logic\obj\Debug\Logic.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Logic.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Logic.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Common.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Points.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Common.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Points.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\obj\Debug\Logic.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Logic\obj\Debug\Logic.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Points.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Logic\bin\Debug\Points.pdb

@@ -1,0 +1,45 @@
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Летник.exe.config
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Летник.exe
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Летник.pdb
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Common.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Points.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Common.pdb
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Points.pdb
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\obj\Debug\Летник.csprojResolveAssemblyReference.cache
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\obj\Debug\Летник.Form1.resources
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\obj\Debug\Летник.Properties.Resources.resources
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\obj\Debug\Летник.csproj.GenerateResource.Cache
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\obj\Debug\Летник.exe
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\obj\Debug\Летник.pdb
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Logic.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Летник\bin\Debug\Logic.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Летник.exe.config
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.exe
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Летник.exe
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Летник.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Common.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Logic.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Points.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Common.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Logic.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Points.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.Form1.resources
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.Properties.Resources.resources
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.csproj.GenerateResource.Cache
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Летник.exe.config
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.exe
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Летник.exe
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Летник.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Common.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Logic.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Points.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Common.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Logic.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\bin\Debug\Points.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.csprojResolveAssemblyReference.cache
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.Form1.resources
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.Properties.Resources.resources
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Летник\obj\Debug\Летник.csproj.GenerateResource.Cache

@@ -1,0 +1,23 @@
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Common\bin\Debug\Common.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Common\bin\Debug\Common.pdb
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Common\bin\Debug\Points.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Common\bin\Debug\Points.pdb
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Common\obj\Debug\Commons.csprojResolveAssemblyReference.cache
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Common\obj\Debug\Common.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Common\obj\Debug\Common.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Common.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Common.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Points.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Points.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\obj\Debug\Commons.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\obj\Debug\Common.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\obj\Debug\Common.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Common.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Common.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Points.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Points.pdb
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Common\obj\Debug\Commons.csprojResolveAssemblyReference.cache
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Common\obj\Debug\Common.dll
+C:\Users\kolga\Desktop\NecklaceMaker\Летник\Common\obj\Debug\Common.pdb
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Logic.dll
+C:\Users\Иван\Desktop\NecklaceMaker\Летник\Common\bin\Debug\Logic.pdb

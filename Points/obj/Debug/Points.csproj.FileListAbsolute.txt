@@ -1,0 +1,5 @@
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Points\bin\Debug\Points.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Points\bin\Debug\Points.pdb
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Points\obj\Debug\Points.csprojResolveAssemblyReference.cache
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Points\obj\Debug\Points.dll
+C:\Users\Елизавета\Desktop\Летняя практика 2016\Летник\Points\obj\Debug\Points.pdb
